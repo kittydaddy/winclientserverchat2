@@ -1,0 +1,10 @@
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\bin\Debug\Server.exe
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\bin\Debug\Server.pdb
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\bin\Debug\Server.xml
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.Resources.resources
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.exe
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.xml
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,10 @@
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\bin\Debug\Client.exe
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\bin\Debug\Client.pdb
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\bin\Debug\Client.xml
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.frmClient.resources
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.Resources.resources
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.exe
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.xml
+C:\Users\Student\Downloads\CSC-239-Chat-master (1)\CSC-239-Chat-master\Client\Client\obj\Debug\Client.pdb
